@@ -1,10 +1,18 @@
 ### Hi I'm Mike
 
-I'm a developer who loves to learn new things 😊
+I'm a developer who loves to learn new things 😊. I'm currently a student at Boston University.
 
-![Mike's Github Stats:](https://github-readme-stats.vercel.app/api?username=mikethegoblin&show_icons=true&count_private=true&theme=monokai)  
+Interests:
+- Software Engineering
+- Machine Learning
+- Distributed System
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikethegoblin&langs_count=5&layout=compact&exclude_repo=bose-AR,bose-AR-2&theme=monokai)
+Hobbies:
+- Skiing 🎿
+- Violin 🎻
+- Movies 🎥
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikethegoblin&langs_count=8&layout=compact&exclude_repo=bose-AR,bose-AR-2)
 
 <!--
 **mikethegoblin/mikethegoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

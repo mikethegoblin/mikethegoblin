@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi I'm Mike
+
+I'm a developer who loves to learn new things 😊
+
+![Mike's Github Stats:](https://github-readme-stats.vercel.app/api?username=mikethegoblin&show_icons=true&count_private=true&theme=monokai)  
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikethegoblin&langs_count=5&layout=compact&exclude_repo=bose-AR,bose-AR-2&theme=monokai)
 
 <!--
 **mikethegoblin/mikethegoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

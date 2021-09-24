@@ -1,4 +1,4 @@
-### Hi I'm Mike
+### Hello! I'm Mike
 
 I'm a developer who loves to learn new things 😊. I'm currently a student at Boston University.
 

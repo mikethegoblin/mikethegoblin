@@ -1,6 +1,6 @@
 ### Hello! I'm Mike
 
-I'm a developer who loves to learn new things 😊. I'm currently a student at Boston University.
+I'm a developer who loves to learn new things 😊. I'm currently a graduate student at Yale University.
 
 Interests:
 - Software Engineering

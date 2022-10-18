@@ -12,7 +12,7 @@ Hobbies:
 - Violin 🎻
 - Movies 🎥
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikethegoblin&langs_count=8&layout=compact&exclude_repo=bose-AR,bose-AR-2)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikethegoblin&langs_count=8&layout=compact&exclude_repo=bose-AR-2,bose-AR)
 
 <!--
 **mikethegoblin/mikethegoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

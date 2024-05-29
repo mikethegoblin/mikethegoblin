@@ -1,6 +1,6 @@
 ### Hello! I'm Mike
 
-I'm a developer who loves to learn new things 😊. I'm currently a graduate student at Yale University.
+I'm a developer who loves to learn new things 😊. I'm currently a software engineer at Huawei
 
 Interests:
 - Software Engineering

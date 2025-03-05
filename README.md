@@ -1,6 +1,6 @@
 ### Hello! I'm Mike
 
-I'm a developer who loves to learn new things 😊. I'm currently a software engineer at Huawei
+I'm a developer who loves to learn new things 😊. I'm currently a software engineer at BAAI
 
 Interests:
 - Software Engineering

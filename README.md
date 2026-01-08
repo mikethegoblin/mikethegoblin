@@ -1,6 +1,6 @@
 ### Hello! I'm Mike
 
-I'm a developer who loves to learn new things 😊. I'm currently a software engineer at BAAI
+I'm a developer who loves to learn new things 😊. I'm currently building [FlagCX](https://github.com/flagos-ai/FlagCX) at BAAI
 
 Interests:
 - Software Engineering
@@ -12,7 +12,7 @@ Hobbies:
 - Violin 🎻
 - Movies 🎥
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikethegoblin&langs_count=8&layout=compact&exclude_repo=bose-AR-2,bose-AR)
+[![Mike's github stats](https://github-readme-stats.vercel.app/api?username=mikethegoblin)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **mikethegoblin/mikethegoblin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
